@@ -8,7 +8,7 @@ Each project includes fundamentals such as:
 - Basic logic and error handling
 
 # assignments (up-to-date)
-- Program_1.py: recieving input from user, (name and address)
-- Program_2.py: Fahrenheit to Kelvin Converter
-- Program_3.py: Trapezoidal Prism Volume Calculator (with modularity)
+- Program_1: recieving input from user, (name and address)
+- Program_2: Fahrenheit to Kelvin Converter
+- Program_3: Trapezoidal Prism Volume Calculator (with modularity)
 - To be continued
